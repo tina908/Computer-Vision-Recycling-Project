@@ -1,3 +1,6 @@
+### Computer-Vision-Recycling-Project
+## 컴퓨터비전 재활용 구분 프로젝트
+
 ![image](https://github.com/tina908/Computer-Vision-Recycling-Project/assets/68736697/66e92657-cd81-43bc-8b05-5e8bfe91318e)
 
 ![image](https://github.com/tina908/Computer-Vision-Recycling-Project/assets/68736697/48fe9567-0c6a-49e2-928b-87350a3567bd)
