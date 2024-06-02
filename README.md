@@ -1,4 +1,4 @@
-### Computer-Vision-Recycling-Project
+# Computer-Vision-Recycling-Project
 ## 컴퓨터비전 재활용 구분 프로젝트
 > OpenCV와 YOLO를 활용한 컴퓨터 비전으로 재활용품을 실시간으로 구분하는 모델
 
